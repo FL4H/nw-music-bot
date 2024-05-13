@@ -1,20 +1,20 @@
 {
-    "TOKEN": "",
-    "NAME": "",
+    "TOKEN": "MTIzNzQ2MjYzNTk0Mzk1NjYwMw.G01ZWN.SQR7KEAB3TrgkR3JG_3gewNU5j9r1ZhdxFRlTo",
+    "NAME": "Mikii",
     "DEFAULT_PREFIX": ".",
-    "MONGODB_URI": "",
+    "MONGODB_URI": "mongodb+srv://Mikii:Mikii@cluster0.pslrwdz.mongodb.net/",
     "MICROSERVICES_API": "https://uzox.xyz/api/",
     "SPOTIFY_API_CONFIG": {
-        "clientId": "",
-        "clientSecret": "",
+        "clientId": "6c31645ffb004ab8b44d06f7b96d1b66",
+        "clientSecret": "3618fdc0b4824cfd91a8d425dac32987",
         "redirectUri": ""
     },
     "LAVALINK_SERVERS": [
         {
-            "name": "name",
-            "url": "ip:port",
-            "auth": "password",
-            "secure": false
+            "name": "oddcoder",
+            "url": "lavalink.oddcoder.xyz",
+            "auth": "oddcoder",
+            "secure": true
         }
     ]
 }
